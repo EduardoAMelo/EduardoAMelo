@@ -7,18 +7,26 @@
 📚 &nbsp; Passionate about process automation.
 
 ## 🛠 &nbsp;Tech Stack
-
+- Languages &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 \
+- Web Dev Languages &nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
+\
+- Editing programs &nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![After Effects](https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobe-after-effects)
 ![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=adobe-premiere-pro)
+\
+- Workflow Plataforms &nbsp;
+  ![Jenkins](https://img.shields.io/badge/Jenkins-05122A?style=flat&logo=Jenkins)
+  ![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
