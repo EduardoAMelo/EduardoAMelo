@@ -2,10 +2,8 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Trainee React JS Dev at [Beep Solutions](http://cnpj.info/Beep-Solucoes-Tecnologicas-Beep-Solutions)
-\ 
-🎓 &nbsp; Communication Network Engineering (in progress).
-\
+📊 &nbsp; Trainee React JS Dev at [Beep Solutions](http://cnpj.info/Beep-Solucoes-Tecnologicas-Beep-Solutions)\
+🎓 &nbsp; Communication Network Engineering (in progress)\
 📚 &nbsp; Passionate about process automation.
 
 ## 🛠 &nbsp;Tech Stack
