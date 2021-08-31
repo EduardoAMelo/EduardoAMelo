@@ -17,7 +17,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
 
-- Editing programs &nbsp;
+- Edition programs &nbsp;
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
