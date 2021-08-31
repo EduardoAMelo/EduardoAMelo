@@ -12,7 +12,7 @@
 \
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 \
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe-xd)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
