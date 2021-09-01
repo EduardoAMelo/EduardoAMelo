@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Trainee React JS Dev at [Beep Solutions](http://cnpj.info/Beep-Solucoes-Tecnologicas-Beep-Solutions)\
+📊 &nbsp; Trainee React JS Dev at [Future](https://redefuture.com.br/#/)\
 🎓 &nbsp; Communication Network Engineering (in progress)\
 📚 &nbsp; Passionate about process automation.
 
