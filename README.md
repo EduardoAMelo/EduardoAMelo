@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Trainee React JS Dev at [Future](https://redefuture.com.br/#/)\
+📊 &nbsp; Trainee React JS Dev at [SocialPort](https://socialport.com.br)\
 🎓 &nbsp; Communication Network Engineering (in progress)\
 📚 &nbsp; Passionate about process automation.
 
@@ -10,6 +10,7 @@
 - Languages &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL)&nbsp;
 
 - Web Dev Languages &nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
