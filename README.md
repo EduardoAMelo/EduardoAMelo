@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Trainee React JS Dev at [SocialPort](https://socialport.com.br)\
+📊 &nbsp; BI Assistant at [Caixa's Media Center]\
 🎓 &nbsp; Communication Network Engineering (in progress)\
 📚 &nbsp; Passionate about process automation.
 
