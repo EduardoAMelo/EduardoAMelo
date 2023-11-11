@@ -33,8 +33,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/eduardo-amaral-a9b85b214/"><img src="https://img.shields.io/badge/-Eduardo%20Amaral%20Melo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/eduardo-amaral-melo-a9b85b214?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADY7RVcBAIIOKmLmGtaqttBTaTn1r2UpjzQ&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3B0V166DvUQaqgOjbBj0bwQg%3D%3D"><img src="https://img.shields.io/badge/-Eduardo%20Amaral%20Melo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:eduardoamelo2003@gmail.com"><img src="https://img.shields.io/badge/-eduardoamelo2003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_.edumello/"><img src="https://img.shields.io/badge/-@_edumello_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/eduardo.amaralmelo.716/"><img src="https://img.shields.io/badge/-@Eduardo Amaral Melo-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
