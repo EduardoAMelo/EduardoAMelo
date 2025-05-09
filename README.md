@@ -2,8 +2,8 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; BI Assistant at [Caixa's Media Center]\
-🎓 &nbsp; Communication Network Engineering (in progress)\
+📊 &nbsp; AI Developer at [Core Consulting]\
+🎓 &nbsp; Computer Science (in progress)\
 📚 &nbsp; Passionate about process automation.
 
 ## 🛠 &nbsp;Tech Stack
