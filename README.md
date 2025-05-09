@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; AI Developer at [Core Consulting]\
+📊 &nbsp; AI Developer at [Core Consulting](https://www.linkedin.com/company/core-consultoria-e-servi%C3%A7os-ltda/?originalSubdomain=br)\
 🎓 &nbsp; Computer Science (in progress)\
 📚 &nbsp; Passionate about process automation.
 
