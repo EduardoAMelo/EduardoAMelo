@@ -7,6 +7,14 @@
 📚 &nbsp; Passionate about process automation.
 
 ## 🛠 &nbsp;Tech Stack
+- Analysis and Data Science &nbsp;
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![SKLEARN](https://img.shields.io/badge/-SKlearn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![Scipy](https://img.shields.io/badge/-Scipy-05122A?style=flat&logo=scipy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=Seaborn)&nbsp;
+![MATPLOTLIB](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
 - Languages &nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -16,6 +24,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![C++](https://img.shields.io/badge/c++-05122A?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![VHDL](https://img.shields.io/badge/-VHDL-05122A?style=flat&logo=VHDL)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly_MIPS-05122A?style=flat)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 
 - Workflow Plataforms &nbsp;
   ![Jira](https://img.shields.io/badge/Jira-05122A?style=flat&logo=Jira)
